@@ -4,9 +4,9 @@ In this game, the computer randomly selects a number within a specified range, a
 1. Make sure you have Python installed on your machine.
 
 2. Copy the code into a file named guessing_number_game.py.
-3- Open your terminal or command prompt.
-4- Navigate to the directory where you saved the file.
-5- Run the script using the command: python guessing_number_game.py.
+3. Open your terminal or command prompt.
+4. Navigate to the directory where you saved the file.
+5. Run the script using the command: python guessing_number_game.py.
 
 ## How to Play:
 - The program will select a random number between 1 and 100.
