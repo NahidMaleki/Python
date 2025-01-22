@@ -1,8 +1,9 @@
 In this game, the computer randomly selects a number within a specified range, and the player has to guess it.
 
 ## How to Run the Code:
-1- Make sure you have Python installed on your machine.
-2- Copy the code into a file named guessing_number_game.py.
+1. Make sure you have Python installed on your machine.
+
+2. Copy the code into a file named guessing_number_game.py.
 3- Open your terminal or command prompt.
 4- Navigate to the directory where you saved the file.
 5- Run the script using the command: python guessing_number_game.py.
